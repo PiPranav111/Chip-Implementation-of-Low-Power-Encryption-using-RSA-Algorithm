@@ -13,7 +13,7 @@ To achieve low power consumption along with high performance and reliability in 
 ## **Project Workflow**  
 
 ### **1. Research & Algorithm Understanding**  
-- Studied RSA encryption and its impact on **power, performance, and reliability**.  
+- Studied RSA algorithm, it's physical implementation and its impact on **power, performance, and reliability**.  
 - Explored **hardware acceleration techniques** for RSA.  
 
 ### **2. RTL Design & Functional Verification**  
