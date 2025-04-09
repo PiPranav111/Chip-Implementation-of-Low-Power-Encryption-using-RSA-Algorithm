@@ -2,7 +2,7 @@
 ## **Chip Implementation of Low Power Encryption using RSA Algorithm**  
 
 ### **Objective**  
-To achieve low power consumption along with high performance and reliability in RSA-based encryption hardware.  
+To achieve low power consumption along with high performance and reliability in RSA-based encryption - decryption hardware.  
 
 ### **Tools Used**  
 - **FPGA Flow:** Vivado, Spartan-7 FPGA, Boolean Board  
