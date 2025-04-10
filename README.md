@@ -59,7 +59,9 @@ To achieve low power consumption along with high performance and reliability in 
 ---
 
 ## **Final Results**  
-(*To be added later*)  
+(*To be added later*) 
+Area : 0.4 mm square.
+Power : 1.35 mW
 
 ---
 
