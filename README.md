@@ -36,7 +36,7 @@ To achieve low power consumption along with high performance and reliability in 
 | Blowfish  | Symmetric   | 32–448 bits    | Medium         | Medium             | ⚠️ Partially             |
 
 📎 *RSA Functional Block Diagram*  
-![RSA Block Diagram](docs/Images/rsa_block_diagram.png)
+![RSA Block Diagram](docs/Images/elaborated_design_schematic.png)
 
 ---
 
