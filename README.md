@@ -60,7 +60,7 @@ To achieve low power consumption along with high performance and reliability in 
 📎 *FPGA Output Snapshot*  
 ![Vivado Output](docs/Images/fpga_result.png)
 
-📄 [Vivado PPA Snapshot](docs/Images/vivado_results.png)
+![Vivado PPA Snapshot](docs/Images/vivado_results.png)
 
 ---
 
@@ -126,7 +126,7 @@ To achieve low power consumption along with high performance and reliability in 
 
 - 📘 **Paper Title:** *Chip Implementation of Low Power Encryption using RSA Algorithm*
 - 🏛️ **Presented at:** SMARTCOM 2025 – International Conference on Smart Communication and Imaging Systems, Pune
-![Contribution Certificate](docs/123_CC.pdf)
+[Contribution Certificate](docs/123_CC.pdf)
 - 🔗 [View Presentation details on SMARTCOM 2025](https://ninthsmartcom2025.sched.com/event/1u1OM/chip-implementation-of-low-power-encryption-using-rsa-algorithm)
 - 📰 **To be published in:** Springer Lecture Notes in Networks and Systems (LNNS), 2025  
 - 🔗 [Link will be updated once available]
