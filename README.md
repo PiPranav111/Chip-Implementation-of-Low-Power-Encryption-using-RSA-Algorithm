@@ -71,7 +71,7 @@ To achieve low power consumption along with high performance and reliability in 
 
 📄 [Genus Power Report](docs/reports/power.rpt)
 📄 [Genus Timing Report](docs/reports/timing.rpt)
-📄 [Genus Area Report](docs/reports/area.png)
+📄 [Genus Area Report](docs/reports/area.rpt)
 
 ### 📊 PPA Comparison Across Corners (ASIC Synthesis)
 
@@ -89,13 +89,13 @@ To achieve low power consumption along with high performance and reliability in 
 - Generated the final **GDS-II layout**.
 
 📎 *Floorplan*  
-![Floorplan](docs/Images/floorplan_snapshot.png)
+![Floorplan](docs/Images/floorplan.png)
 📎 *Placement*  
-![Placement](docs/Images/Placement_snapshot.png)
+![Placement](docs/Images/Placement.png)
 📎 *Clock Distribution Network*  
-![Clock Distribution Network](docs/Images/CTS_snapshot.png)
+![Clock Distribution Network](docs/Images/CTS.png)
 📎 *Routing*  
-![Routing](docs/Images/Routing_snapshot.png)
+![Routing](docs/Images/Routing.png)
 
 ---
 
@@ -126,6 +126,7 @@ To achieve low power consumption along with high performance and reliability in 
 
 - 📘 **Paper Title:** *Chip Implementation of Low Power Encryption using RSA Algorithm*
 - 🏛️ **Presented at:** SMARTCOM 2025 – International Conference on Smart Communication and Imaging Systems, Pune
+![Contribution Certificate](docs/123_CC.pdf)
 - 🔗 [View Presentation details on SMARTCOM 2025](https://ninthsmartcom2025.sched.com/event/1u1OM/chip-implementation-of-low-power-encryption-using-rsa-algorithm)
 - 📰 **To be published in:** Springer Lecture Notes in Networks and Systems (LNNS), 2025  
 - 🔗 [Link will be updated once available]
