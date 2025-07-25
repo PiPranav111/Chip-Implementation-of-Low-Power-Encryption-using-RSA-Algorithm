@@ -91,11 +91,11 @@ To achieve low power consumption along with high performance and reliability in 
 📎 *Floorplan*  
 ![Floorplan](docs/Images/floorplan.png)
 📎 *Placement*  
-![Placement](docs/Images/Placement.png)
+![Placement](docs/Images/placement.png)
 📎 *Clock Distribution Network*  
 ![Clock Distribution Network](docs/Images/CTS.png)
 📎 *Routing*  
-![Routing](docs/Images/Routing.png)
+![Routing](docs/Images/routing.png)
 
 ---
 
