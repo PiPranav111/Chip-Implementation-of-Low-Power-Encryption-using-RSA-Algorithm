@@ -60,7 +60,7 @@ To achieve low power consumption along with high performance and reliability in 
 📎 *FPGA Output Snapshot*  
 ![Vivado Output](docs/Images/fpga_result.png)
 
-📄 [Vivado PPA Report (PDF)](docs/Images/vivado_results.png)
+📄 [Vivado PPA Snapshot](docs/Images/vivado_results.png)
 
 ---
 
